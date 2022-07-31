@@ -39,6 +39,9 @@
      <Compile Include="Assets\Scripts\CanvasScript.cs" />
      <Compile Include="Assets\Scripts\Player_Movement.cs" />
      <Compile Include="Assets\Scripts\Item.cs" />
+     <Compile Include="Assets\Scripts\CharacterAnimation.cs" />
+     <Compile Include="Assets\Scripts\Tags.cs" />
+     <Compile Include="Assets\Scripts\PlayerMove.cs" />
      <Compile Include="Assets\Scripts\Cart.cs" />
      <Compile Include="Assets\Scripts\PopulateCartScript.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
